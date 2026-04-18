@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm Dzak! 👋
+# Hi, I'm Dzaki / JEkk! 👋
 
 ## 🚀 About Me
 - 🎓 Informatics Graduate
