@@ -18,7 +18,7 @@
 - Figma (UI/UX)
 
 ## 📱 Featured Project
-### KuliApp - Porter Service App
+### KuliApp - Labor Service App
 Mobile application to find and hire porters for house renovation.
 
 **Features:**
