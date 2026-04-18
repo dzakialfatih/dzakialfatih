@@ -36,10 +36,11 @@ Mobile application to find and hire porters for house renovation.
 - Clean Architecture
 - MVVM Pattern
 - CI/CD Android
+- Data Science 
 
 ## 📫 Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/muhammad-dzaki-al-fatih/)
-- Email: (mailto:dzakialfateeh@gmail.com)
+- LinkedIn: [Muhammad Dzaki Al Fatih](https://www.linkedin.com/in/muhammad-dzaki-al-fatih/)
+- Email: [dzakialfateeh@gmail.com](mailto:dzakialfateeh@gmail.com)
 
 ---
 ⭐️ From [dzakialfatih](https://github.com/dzakialfatih)
