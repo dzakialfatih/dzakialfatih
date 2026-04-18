@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Dzaki / JEkk! 👋
 
-## 🚀 About Me
+## 🦅 About Me
 - 🎓 Informatics Graduate
 - 📱 Mobile Developer (Kotlin & Flutter)
 - 🔥 Interested in UI/UX & Mobile Apps
