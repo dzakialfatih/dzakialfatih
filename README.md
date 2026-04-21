@@ -28,9 +28,6 @@ Mobile application to find and hire porters for house renovation.
 - 💬 WhatsApp direct contact
 - 👤 Worker profile management
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakialfatih&show_icons=true)
-
 ## 🌱 Currently Learning
 - Design Thinking
 - Clean Architecture
@@ -46,6 +43,9 @@ Mobile application to find and hire porters for house renovation.
 ⭐️ From [dzakialfatih](https://github.com/dzakialfatih)
 <!--
 **dzakialfatih/dzakialfatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakialfatih&show_icons=true)
 
 Here are some ideas to get you started:
 
